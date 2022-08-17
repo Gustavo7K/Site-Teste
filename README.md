@@ -1,5 +1,6 @@
-# Site-Teste
-Teste de Site feito em css/html
+# Site de Filmes
+
+Site teste de plataforma de filmes online feito em css/html.
 
 Feito por: Gustavo Henrique
 
